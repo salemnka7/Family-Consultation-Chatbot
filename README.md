@@ -1,4 +1,5 @@
 # 🤖 Arabic Legal & Family Consultation Chatbot
+![Arabic Chatbot Thumbnail](thumbnail.png)
 
 An Arabic-language chatbot designed to assist users in obtaining **family and legal consultations** using natural language processing (NLP) techniques. Built with a smart escalation mechanism for complex queries, and a user-friendly interface powered by **Streamlit**.
 
